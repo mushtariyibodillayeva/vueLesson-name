@@ -1,11 +1,11 @@
 body {
   font-family: cursive;
-  background: url();
+  background-color: cornflowerblue;
 }
 .box {
   width: 450px;
   height: 500px;
-  background-color: rgba(20, 20, 20, 0.568);
+  background-color: rgb(20, 20, 20);
   color: #fff;
   margin: 0 auto;
   margin-top: 30px;
